@@ -2,7 +2,7 @@
 
 Meu nome é Carlos Lima
 
-- Estou estudando na [Alura](https:
+- Estou estudando na [Alura](https://wwww.alura.com.br)
 - EStou me densenvolvendo na linguagem javaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
